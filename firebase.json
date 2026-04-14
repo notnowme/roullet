@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"toruru-app","appId":"1:451217461739:android:0a448f0ee64406eb0189ae","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"toruru-app","configurations":{"android":"1:451217461739:android:0a448f0ee64406eb0189ae","ios":"1:451217461739:ios:6ff5abe01dbc95c50189ae"}}}}}}

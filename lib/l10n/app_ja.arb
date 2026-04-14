@@ -1,0 +1,233 @@
+{
+    "@@locale": "ja",
+    "appTitle": "テクルル",
+    "appSubtitle": "クルクル·ルーレット",
+    "homeDesc01": "名前を入力してね！",
+    "homeDesc02": ",(半角)で区切ってね。2人以上からスタートできるよ",
+    "start": "スタート",
+    "condition": "勝利条件",
+    "winCondition01": "一番勝ち",
+    "winCondition02": "ビリが勝ち",
+    "winCondition03": "先着",
+    "winCondition04": "ワースト",
+    "winCondition03Desc": "{n}人まで勝ち",
+    "@winCondition03Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "winCondition04Desc": "{n}人まで勝ち",
+    "@winCondition04Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "confirm": "OK",
+    "cancel": "戻る",
+    "defaultPlayers": "ねこ,いぬ,さめ,とり",
+    "error2minPlayers": "２人以上からスタートできるよ",
+    "firstWarning": "ビリが勝ちにしませんか？",
+    "lastWarning": "一番勝ちにしませんか？",
+    "settings": "設定",
+    "gameSettings": "ゲーム設定",
+    "physicsSettings": "物理効果設定",
+    "policy": "規約とポリシー",
+    "servicePolicy": "利用規約",
+    "physics": "物理",
+    "gravity": "重力",
+    "ballSize": "ボールの大きさ",
+    "maxSpeed": "最大速度",
+    "effects": "演出",
+    "trail": "ボールトレイル",
+    "slowMotion": "ゴール直前スロー",
+    "countdown": "カウントダウン",
+    "ballSkins": "ボールスキン - 種類ごとに物理特性が違うよ！",
+    "marble": "マーブル",
+    "marbleDesc": "定番のビー玉スタイル",
+    "solar": "太陽系",
+    "solarDesc": "太陽系の惑星たち",
+    "sports": "スポーツ",
+    "sportsDesc": "いろんな球技ボール",
+    "pixel": "8ビットピクセル",
+    "pixelDesc": "レトロなピクセルボール",
+    "slime": "スライム",
+    "slimeDesc": "ゼリーのような軽いボール",
+    "fruits": "フルーツ",
+    "fruitsDesc": "カラフルな果物たち",
+    "optionsBack": "オプション初期化",
+    "adReward": "広告で解放",
+    "policyAlert": "規約ページに移動しますか？",
+    "warning": "あちゃ...!",
+    "error": "エラー!",
+    "winnerCountError": "優勝者は参加者より少なくしてね！",
+    "mercury": "マーキュリー",
+    "venus": "ヴィーナス",
+    "earth": "アース",
+    "mars": "マーズ",
+    "jupiter": "ジュピター",
+    "saturn": "サターン",
+    "uranus": "ウラヌス",
+    "neptune": "ネプチューン",
+    "apple": "リンゴ",
+    "pear": "梨",
+    "pineapple": "パイナップル",
+    "orange": "オレンジ",
+    "lemon": "レモン",
+    "kiwi": "キウイ",
+    "strawberry": "イチゴ",
+    "coconut": "ココナッツ",
+    "durian": "ドリアン",
+    "banana": "バナナ",
+    "baseball": "野球ボール",
+    "soccerBall": "サッカーボール",
+    "basketball": "バスケットボール",
+    "tennisBall": "テニスボール",
+    "volleyball": "バレーボール",
+    "golfBall": "ゴルフボール",
+    "billiardBall": "ビリヤードボール",
+    "bowlingBall": "ボウリングボール",
+    "cameraFirst": "ファースト",
+    "cameraLast": "ワースト",
+    "cameraAll": "全体",
+    "gameRest": "やり直し",
+    "victory": "やったぜ！かったぜ！",
+    "customMap": "カスタムマップ",
+    "newMap": "新規マップ",
+    "mapObject": "オブジェクト",
+    "mapCount": "{n}個",
+    "@mapCount": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "scroll": "スクロール",
+    "move": "移動",
+    "zoomRest": "ズームリセット",
+    "objectDefault": "基本",
+    "objectSecond": "障害物",
+    "objectSpecial": "特殊",
+    "peg": "ピン",
+    "pegZone": "ピンエリア",
+    "plank": "板",
+    "wall": "壁",
+    "wallLine": "壁ライン",
+    "bumper": "バンパー",
+    "triangle": "三角形",
+    "rotating": "回転",
+    "movableObject": "移動",
+    "breakableObject": "破壊壁",
+    "flipper": "フリッパー",
+    "bounce": "バウンス",
+    "accelObject": "加速",
+    "decelObject": "減速",
+    "wormhole": "ワームホール",
+    "rope": "ロープ",
+    "jsonExport": "JSON書き出し",
+    "jsonExportDesc": "JSONをクリップボードにコピーしました。",
+    "jsonImport": "JSON読み込み",
+    "jsonImportDesc": "JSONを貼り付けてください",
+    "import": "インポート",
+    "allDelete": "全削除",
+    "testPlay": "テストプレイ",
+    "mapSave": "{text} 保存完了",
+    "@mapSave": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "guideTapDefault": "配置する場所をタップしてね",
+    "guidePegZone01": "開始位置をタップしてね (1/2)",
+    "guidePegZone02": "終了位置をタップしてね (2/2)",
+    "guideWallLine01": "点をタップしてね (2個以上)",
+    "guideWallLineIng": "点をタップしてね ({n}個) [完了ボタン]",
+    "mapDone": "完了",
+    "guideWormHole01": "入口をタップしてね (1/2)",
+    "guideWormHole02": "出口をタップしてね (2/2)",
+    "guideRope01": "ロープの始点をタップしてね (1/2)",
+    "guideRope02": "ロープの終点をタップしてね (2/2)",
+    "@guideWallLineIng": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "noMap": "まだ作ったマップがないよ",
+    "noMapDesc": "上の『新規マップ』ボタンを押してみてね！",
+    "mapName": "新規マップ",
+    "zone": "範囲",
+    "exit": "出口",
+    "restitution": "反発係数",
+    "endPoint": "終点",
+    "ratio": "倍率",
+    "width": "幅",
+    "strength": "パワー",
+    "pi": "半径",
+    "size": "サイズ",
+    "meter": "長さ",
+    "speed": "速度",
+    "hp": "HP",
+    "interval": "往復 (秒)",
+    "where": "方向",
+    "isLeft": "左",
+    "isRight": "右",
+    "addPoint": "+ 点を追加",
+    "delPoint": "- 最後を削除",
+    "angle": "角度",
+    "nums": "密度",
+    "editor": "マップ作成",
+    "chanllenger": "参加者紹介",
+    "following": "フォロー中",
+    "delete": "削除",
+    "defaultMap": "デフォルトマップ",
+    "mapDelete": "マップ削除",
+    "mapDeleteName": "マップ [{name}] 削除しますか？",
+    "@mapDeleteName": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "mapAdTitle": "カスタムマップは{n}個まで作ることができるよ",
+    "@mapAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "mapAdDesc": "広告を見て、もう２個作りましょう！",
+    "player": "最大人数",
+    "playerAdTitle": "最大参加人数 {n}人",
+    "@playerAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAdDesc": "広告を見て、最大人数を増やしましょう",
+    "mapSelect": "マップ選択",
+    "playerAlert": "最大{n}人までできるよ！",
+    "@playerAlert": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAlertDesc": "広告を見て、10人まで追加しましょう！",
+    "ranking": "ランキング",
+    "rank": "位",
+    "mapRange": "マップ範囲",
+    "appExit": "アプリを終了しますか？"
+}

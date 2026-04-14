@@ -1,0 +1,233 @@
+{
+    "@@locale": "ko",
+    "appTitle": "또르르",
+    "appSubtitle": "Roll it roullet!",
+    "homeDesc01": "이름을 입력하세요!",
+    "homeDesc02": "쉼표로 구분해서 2명 이상이면 시작할 수 있어요",
+    "start": "시작",
+    "condition": "승리 조건",
+    "winCondition01": "1등만",
+    "winCondition02": "꼴등만",
+    "winCondition03": "1등부터",
+    "winCondition04": "꼴등부터",
+    "winCondition03Desc": "{n}명까지",
+    "@winCondition03Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "winCondition04Desc": "{n}명까지",
+    "@winCondition04Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "confirm": "확인",
+    "cancel": "취소",
+    "defaultPlayers": "고양이,강아지,햄스터,물고기",
+    "error2minPlayers": "이름은 2명 이상 입력해야 해요",
+    "firstWarning": "꼴등이 이기는 걸로 할까요?",
+    "lastWarning": "1등이 이기는 걸로 할까요?",
+    "settings": "설정",
+    "gameSettings": "게임 설정",
+    "physicsSettings": "물리 효과 설정",
+    "policy": "약관 및 정책",
+    "servicePolicy": "서비스 이용약관",
+    "physics": "물리",
+    "gravity": "중력",
+    "ballSize": "공 크기",
+    "maxSpeed": "최대 속도",
+    "effects": "연출",
+    "trail": "공 트레일",
+    "slowMotion": "골 직전 슬로모션",
+    "countdown": "카운트다운",
+    "ballSkins": "공 스킨 - 각 공마다 물리 특성이 달라요!",
+    "marble": "마블",
+    "marbleDesc": "기본 구슬 스타일",
+    "solar": "태양계",
+    "solarDesc": "태양계 행성들",
+    "sports": "스포츠",
+    "sportsDesc": "각종 구기종목",
+    "pixel": "8비트 픽셀",
+    "pixelDesc": "레트로 픽셀 공",
+    "slime": "슬라임",
+    "slimeDesc": "젤리처럼 가벼운 공",
+    "fruits": "과일",
+    "fruitsDesc": "알록달록 각종 과일들",
+    "optionsBack": "옵션 초기화",
+    "adReward": "광로로 해제",
+    "policyAlert": "약관 페이지로 이동할까요?",
+    "warning": "이런...!",
+    "error": "에러!",
+    "winnerCountError": "참가자 수보다 당첨자 수가 적어야 해요",
+    "mercury": "수성",
+    "venus": "금성",
+    "earth": "지구",
+    "mars": "화성",
+    "jupiter": "목성",
+    "saturn": "토성",
+    "uranus": "천왕성",
+    "neptune": "해왕성",
+    "apple": "사과",
+    "pear": "배",
+    "pineapple": "파인애플",
+    "orange": "오렌지",
+    "lemon": "레몬",
+    "kiwi": "키위",
+    "strawberry": "딸기",
+    "coconut": "코코넛",
+    "durian": "두리안",
+    "banana": "바나나",
+    "baseball": "야구공",
+    "soccerBall": "축구공",
+    "basketball": "농구공",
+    "tennisBall": "테니스공",
+    "volleyball": "배구공",
+    "golfBall": "골프공",
+    "billiardBall": "당구공",
+    "bowlingBall": "볼링공",
+    "cameraFirst": "선두",
+    "cameraLast": "꼴등",
+    "cameraAll": "전체",
+    "gameRest": "다시하기",
+    "victory": "내가 이겼다!",
+    "customMap": "커스텀 맵",
+    "newMap": "새 맵",
+    "mapObject": "오브젝트",
+    "mapCount": "{n}개",
+    "@mapCount": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "scroll": "스크롤",
+    "move": "이동",
+    "zoomRest": "줌 리셋",
+    "objectDefault": "기본",
+    "objectSecond": "장애물",
+    "objectSpecial": "특수",
+    "peg": "핀",
+    "pegZone": "핀 구역",
+    "plank": "판자",
+    "wall": "벽",
+    "wallLine": "벽 라인",
+    "bumper": "범퍼",
+    "triangle": "삼각형",
+    "rotating": "회전",
+    "movableObject": "이동",
+    "breakableObject": "파괴벽",
+    "flipper": "플리퍼",
+    "bounce": "바운스",
+    "accelObject": "가속",
+    "decelObject": "감속",
+    "wormhole": "웜홀",
+    "rope": "로프",
+    "jsonExport": "JSON 내보내기",
+    "jsonExportDesc": "JSON이 클립보드에 복사되었습니다.",
+    "jsonImport": "JSON 가져오기",
+    "jsonImportDesc": "JSON 붙여넣기",
+    "import": "가져오기",
+    "allDelete": "전체 삭제",
+    "testPlay": "테스트 플레이",
+    "mapSave": "{text} 저장 완료",
+    "@mapSave": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "guideTapDefault": "배치할 위치를 탭하세요",
+    "guidePegZone01": "시작 위치를 탭하세요 (1/2)",
+    "guidePegZone02": "끝 위치를 탭하세요 (2/2)",
+    "guideWallLine01": "점을 탭하세요 (2개 이상)",
+    "guideWallLineIng": "접을 탭하세요 ({n}개) [완료 버튼]",
+    "@guideWallLineIng": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "mapDone": "완료",
+    "guideWormHole01": "입구 위치를 탭하세요 (1/2)",
+    "guideWormHole02": "출구 위치를 탭하세요 (2/2)",
+    "guideRope01": "로프 시작점을 탭하세요 (1/2)",
+    "guideRope02": "로프 끝점을 탭하세요 (2/2)",
+    "noMap": "아직 만든 맵이 없어요",
+    "noMapDesc": "상단의 새 맵 버튼을 눌러 보세요",
+    "mapName": "맵 이름",
+    "zone": "범위",
+    "exit": "출구",
+    "restitution": "탄성",
+    "endPoint": "끝",
+    "ratio": "배율",
+    "width": "너비",
+    "strength": "힘",
+    "pi": "반지름",
+    "size": "크기",
+    "meter": "길이",
+    "speed": "속도",
+    "hp": "체력",
+    "interval": "간격(초)",
+    "where": "방향",
+    "isLeft": "왼쪽",
+    "isRight": "오른쪽",
+    "addPoint": "+ 점 추가",
+    "delPoint": "- 마지막 삭제",
+    "angle": "각도",
+    "nums": "밀도",
+    "editor": "에디터",
+    "chanllenger": "참가자 소개",
+    "following": "추적 중!",
+    "defaultMap": "기본 맵",
+    "delete": "삭제",
+    "mapDelete": "맵 삭제",
+    "mapDeleteName": "맵 [{name}] 삭제할까요?",
+    "@mapDeleteName": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "mapAdTitle": "{n}개까지 커스텀 맵을 만들 수 있어요!",
+    "@mapAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "mapAdDesc": "광고 시청 후 2개 더 만들어 봐요",
+    "player": "최대 플레이어",
+    "playerAdTitle": "최대 플레이어 {n}명",
+    "@playerAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAdDesc": "광고 시청 후 최대 플레이어 증가",
+    "mapSelect": "맵 선택",
+    "playerAlert": "최대 {n}명까지 가능해요!",
+    "@playerAlert": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAlertDesc": "광고를 시청하면 10명까지 추가할 수 있어요!",
+    "ranking": "실시간 순위",
+    "rank": "위",
+    "mapRange": "맵 범위",
+    "appExit": "앱을 종료할까요?"
+}

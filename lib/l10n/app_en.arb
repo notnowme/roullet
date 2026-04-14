@@ -1,0 +1,233 @@
+{
+    "@@locale": "en",
+    "appTitle": "Toruru",
+    "appSubtitle": "Roll it roullet!",
+    "homeDesc01": "Enter names below!",
+    "homeDesc02": "Use commas to separate. (Min. 2 players)",
+    "start": "start",
+    "condition": "Win Condition",
+    "winCondition01": "1st Place Wins",
+    "winCondition02": "Last Place Wins",
+    "winCondition03": "First",
+    "winCondition04": "Last",
+    "winCondition03Desc": "{n} players to win",
+    "@winCondition03Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "winCondition04Desc": "{n} players to win",
+    "@winCondition04Desc": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "confirm": "OK",
+    "cancel": "cancel",
+    "defaultPlayers": "dog,cat,lion,tiger",
+    "error2minPlayers": "Min. 2 players required.",
+    "firstWarning": "How about Last Place wins?",
+    "lastWarning": "How about First Place wins?",
+    "settings": "Settings",
+    "gameSettings": "Game Settings",
+    "physicsSettings": "Physics Settings",
+    "policy": "Policy & Terms",
+    "servicePolicy": "Terms of Service",
+    "physics": "Physics",
+    "gravity": "Gravity",
+    "ballSize": "Ball Size",
+    "maxSpeed": "Max Speed",
+    "effects": "Effects",
+    "trail": "Ball Trail",
+    "slowMotion": "Goal Slow-mo",
+    "countdown": "Countdown",
+    "ballSkins": "Ball Skins - Each has unique physics!",
+    "marble": "Marble",
+    "marbleDesc": "Classic glass marble style",
+    "solar": "Solar System",
+    "solarDesc": "Planets of our solar system",
+    "sports": "Sports",
+    "sportsDesc": "Various sports balls",
+    "pixel": "8-Bit Pixel",
+    "pixelDesc": "Retro pixel-art balls",
+    "slime": "Slime",
+    "slimeDesc": "Jelly-like lightweight balls",
+    "fruits": "Fruits",
+    "fruitsDesc": "Colorful assorted fruits",
+    "optionsBack": "Reset Options",
+    "adReward": "Unlock with Ad",
+    "policyAlert": "View our Terms and Policy?",
+    "warning": "Oops...!",
+    "error": "Error!",
+    "winnerCountError": "Winners must be fewer than players",
+    "mercury": "Mercury",
+    "venus": "Venus",
+    "earth": "Earth",
+    "mars": "Mars",
+    "jupiter": "Jupiter",
+    "saturn": "Saturn",
+    "uranus": "Uranus",
+    "neptune": "Neptune",
+    "apple": "Apple",
+    "pear": "Pear",
+    "pineapple": "Pineapple",
+    "orange": "Orange",
+    "lemon": "Lemon",
+    "kiwi": "Kiwi",
+    "strawberry": "Strawberry",
+    "coconut": "Coconut",
+    "durian": "Durian",
+    "banana": "Banana",
+    "baseball": "Baseball",
+    "soccerBall": "Soccer Ball",
+    "basketball": "Basketball",
+    "tennisBall": "Tennis Ball",
+    "volleyball": "Volleyball",
+    "golfBall": "Golf Ball",
+    "billiardBall": "Billiard Ball",
+    "bowlingBall": "Bowling Ball",
+    "cameraFirst": "first",
+    "cameraLast": "last",
+    "cameraAll": "top",
+    "gameRest": "reset",
+    "victory": "Winner, Dinner!",
+    "customMap": "Custom Map",
+    "newMap": "New Map",
+    "mapObject": "Object",
+    "mapCount": "{n} Count",
+    "@mapCount": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "scroll": "Scroll",
+    "move": "Move",
+    "zoomRest": "Reset Zoom",
+    "objectDefault": "Basic",
+    "objectSecond": "Obstacle",
+    "objectSpecial": "Special",
+    "peg": "Peg",
+    "pegZone": "Peg Zone",
+    "plank": "Plank",
+    "wall": "Wall",
+    "wallLine": "Wall Line",
+    "bumper": "Bumper",
+    "triangle": "Triangle",
+    "rotating": "Rotating",
+    "movableObject": "Moving",
+    "breakableObject": "Fragile Wall",
+    "flipper": "Flipper",
+    "bounce": "Bounce",
+    "accelObject": "Accel",
+    "decelObject": "Decel",
+    "wormhole": "Wormhole",
+    "rope": "Rope",
+    "jsonExport": "Export JSON",
+    "jsonExportDesc": "JSON copied to clipboard.",
+    "jsonImport": "Import JSON",
+    "jsonImportDesc": "Paste JSON here",
+    "import": "Import",
+    "allDelete": "Delete All",
+    "testPlay": "Test Play",
+    "mapSave": "{text} Saved",
+    "@mapSave": {
+        "placeholders": {
+            "text": {
+                "type": "String"
+            }
+        }
+    },
+    "guideTapDefault": "Tap a location to place",
+    "guidePegZone01": "Tap start position (1/2)",
+    "guidePegZone02": "Tap end position (2/2)",
+    "guideWallLine01": "Tap points (2 or more)",
+    "guideWallLineIng": "Tap points ({n} pts) [Done Button]",
+    "@guideWallLineIng": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "mapDone": "Done",
+    "guideWormHole01": "Tap entrance (1/2)",
+    "guideWormHole02": "Tap exit (2/2)",
+    "guideRope01": "Tap start point (1/2)",
+    "guideRope02": "Tap end point (2/2)",
+    "noMap": "No maps created yet",
+    "noMapDesc": "Tap the 'New Map' button above to start!",
+    "mapName": "New map",
+    "zone": "Range",
+    "exit": "Exit",
+    "restitution": "Bounciness",
+    "endPoint": "End Point",
+    "ratio": "Ratio",
+    "width": "Width",
+    "strength": "Power",
+    "pi": "Radius",
+    "size": "Size",
+    "meter": "Length",
+    "speed": "Speed",
+    "hp": "HP",
+    "interval": "Interval (s)",
+    "where": "Direction",
+    "isLeft": "Left",
+    "isRight": "Right",
+    "addPoint": "+ Add Point",
+    "delPoint": "- Delete Last",
+    "angle": "Angle",
+    "nums": "Density",
+    "editor": "editor",
+    "chanllenger": "Players",
+    "following": "following now!",
+    "delete": "delete",
+    "defaultMap": "Default Maps",
+    "mapDelete": "Map delete",
+    "mapDeleteName": "Do you want Map [{name}] delete?",
+    "@mapDeleteName": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "mapAdTitle": "You can create up to {n} custom maps!",
+    "@mapAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "mapAdDesc": "Watch an ad to create 2 maps!",
+    "player": "Max Players",
+    "playerAdTitle": "Max Players: {n}",
+    "@playerAdTitle": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAdDesc": "Watch an ad to increase the max player limit!",
+    "mapSelect": "Map select",
+    "playerAlert": "You can have up to {n} players!",
+    "@playerAlert": {
+        "placeholders": {
+            "n": {
+                "type": "int"
+            }
+        }
+    },
+    "playerAlertDesc": "Watch an ad to increase the limit to 10 players!",
+    "ranking": "Current Ranking",
+    "rank": "th",
+    "mapRange": "Map Area",
+    "appExit": "Quit the app?"
+}
