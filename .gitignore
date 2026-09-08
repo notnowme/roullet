@@ -44,7 +44,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-CONTEXT.md
 
 # Firebase — contains API keys, do not commit
 lib/firebase_options.dart
